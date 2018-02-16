@@ -1,4 +1,3 @@
-- Ship can fire (space bar)
 - asteroids move in random directions
 - Score and time played indicator 
 As score increase:
@@ -8,8 +7,10 @@ As score increase:
 ship loses health and points are deducted when it collides with an asteroid
 - health lost depends on asteroid size
 
+space bar to shoot
 press R to play again
 esc to quit
+
 
 
 
