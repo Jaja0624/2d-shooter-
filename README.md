@@ -1,5 +1,6 @@
 ## Run
-java gameframe
+1. javac gameframe.java
+2. java gameframe
 
 ## How to play
 space bar to shoot
