@@ -3,6 +3,8 @@
 2. java gameframe
 
 ## How to play
+arrow keys to move
+
 space bar to shoot
 
 press R to play again
